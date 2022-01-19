@@ -1,7 +1,7 @@
 
 <img src="https://raw.githubusercontent.com/ugurinanmaz/ugurinanmaz/main/1637165720294.jpg"> </img>
 <h1 align="center">Hi 👋, I'm Ugur Inanmaz</h1>
-<h3 align="center">A passionate data analysis from the US</h3>
+<h3 align="center">making data analysis, simple, for everyone from the US</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ugurinanmaz&label=Profile%20views&color=0e75b6&style=flat" alt="ugurinanmaz" /> </p>
 
