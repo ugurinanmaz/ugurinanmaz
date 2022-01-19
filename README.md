@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a Software QA Engineer **at HP Inc.**
 
-- 🌱 I’m currently learning Python for Data Analysis **Python for Data Scientist from Udemy**
+- 🌱 I’m currently learning Python for Data Analysis **Python for Data Scientist**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ugurinanmaz](https://github.com/ugurinanmaz)
 
