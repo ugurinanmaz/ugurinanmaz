@@ -1,3 +1,5 @@
+
+<img src="https://raw.githubusercontent.com/ugurinanmaz/ugurinanmaz/main/1637165720294.jpg"> </img>
 <h1 align="center">Hi 👋, I'm Ugur Inanmaz</h1>
 <h3 align="center">A passionate data analysis from the US</h3>
 
