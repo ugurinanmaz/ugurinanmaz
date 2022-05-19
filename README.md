@@ -1,17 +1,17 @@
 
 <img src="https://github.com/ugurinanmaz/ugurinanmaz/blob/main/Banner.png"> </img>
 <h1 align="center">Hi 👋, I'm Ugur Inanmaz</h1>
-<h3 align="center">making data analysis, simple, for everyone from the US</h3>
+<h3 align="center">I learn everyday! - Sr. Software QA Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ugurinanmaz&label=Profile%20views&color=0e75b6&style=flat" alt="ugurinanmaz" /> </p>
 
-- 🔭 I’m currently working as a Software QA Engineer **at HP Inc.**
+- 🔭 I’m currently working as a Sr. Software QA Engineer **at HP Inc.**
 
-- 🌱 I’m currently learning Python for Data Analysis **Python for Data Science**
+- 🌱 I’m currently learning Full Automation Systems - Performance Testing **Automation in JAVA - Selenium, Cucumber - Performance Testing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ugurinanmaz](https://github.com/ugurinanmaz)
 
-- 💬 Ask me about **SQL, Data manipulation, normalization etc.**
+- 💬 Ask me about **Testing, Automation, Working in a Tech Company Life in the USA, SQL, Data manipulation, normalization etc.**
 
 - 📫 How to reach me **ugurinanmaz@gmail.com**
 
