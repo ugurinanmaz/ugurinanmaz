@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as a Senior Software QA Engineer **at HP Inc.**
 
-- 🌱 I’m currently developing Full Automation Systems, performing entire black box testing processes -**Performance, Stress, Load Testing -  Manual/Automated tests in Java - Selenium, Cucumber, TestNG, JUnit - API testing, Postman, RestAssured  **
+- 🌱 I’m currently developing Full Automation Systems, performing entire black box testing processes **Performance, Stress, Load Testing -  Manual/Automated tests in Java - Selenium, Cucumber, TestNG, JUnit - API testing, Postman, RestAssured**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ugurinanmaz](https://github.com/ugurinanmaz)
 
