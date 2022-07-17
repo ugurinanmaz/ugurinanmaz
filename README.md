@@ -1,11 +1,11 @@
 
 <img src="https://github.com/ugurinanmaz/ugurinanmaz/blob/main/Banner.png"> </img>
 <h1 align="center">Hi 👋, I'm Ugur Inanmaz</h1>
-<h3 align="center">I learn everyday! - Sr. Software QA Engineer</h3>
+<h3 align="center">I learn everyday! - Senior Software QA Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ugurinanmaz&label=Profile%20views&color=0e75b6&style=flat" alt="ugurinanmaz" /> </p>
 
-- 🔭 I’m currently working as a Sr. Software QA Engineer **at HP Inc.**
+- 🔭 I’m currently working as a Senior Software QA Engineer **at HP Inc.**
 
 - 🌱 I’m currently developing Full Automation Systems, performing entire black box testing processes -**Performance, Stress, Load Testing -  Manual/Automated tests in Java - Selenium, Cucumber, TestNG, JUnit - API testing, Postman, RestAssured  **
 
