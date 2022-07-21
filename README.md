@@ -1,7 +1,10 @@
 
 <img src="https://github.com/ugurinanmaz/ugurinanmaz/blob/main/Banner.png"> </img>
 <h1 align="center">Hi 👋, I'm Ugur Inanmaz</h1>
-<h3 align="center">I learn everyday! - Senior Software QA Engineer</h3>
+<h2 align="center">I learn every day! </h2>
+
+<h3 align="center"><i>Senior Software Quality Assurance Engineer</i></h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ugurinanmaz&label=Profile%20views&color=0e75b6&style=flat" alt="ugurinanmaz" /> </p>
 
