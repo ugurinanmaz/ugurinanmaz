@@ -1,7 +1,7 @@
 
 <img src="https://github.com/ugurinanmaz/ugurinanmaz/blob/main/Banner.png"> </img>
 <h1 align="center">Hi 👋, I'm Ugur Inanmaz</h1>
-<h2 align="center">I learn every day! </h2>
+<h2 align="center">I learn every day! <br> Think Out of the Box </h2>
 
 <h3 align="center"><i>Senior Software Quality Assurance Engineer</i></h3>
 
