@@ -3,12 +3,12 @@
 <h1 align="center">Hi 👋, I'm Ugur Inanmaz</h1>
 <h2 align="center">I learn every day! <br> Think Out of the Box </h2>
 
-<h3 align="center"><i>Senior Software Quality Assurance Engineer</i></h3>
+<h3 align="center"><i>Senior Software Test Engineer</i></h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ugurinanmaz&label=Profile%20views&color=0e75b6&style=flat" alt="ugurinanmaz" /> </p>
 
-- 🔭 I’m currently working as a Senior Software QA Engineer **at HP Inc.**
+- 🔭 I’m currently working as a Senior Software Test Engineer **at VISA**
 
 - 🌱 I’m currently developing Full Automation Systems, performing entire black box testing processes **Performance, Stress, Load Testing -  Manual/Automated tests in Java - Selenium, Cucumber, TestNG, JUnit - API testing, Postman, RestAssured**
 
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Testing, Automation, Working in a Tech Company Life in the USA, SQL, Data manipulation, normalization etc.**
 
-- 📫 How to reach me **ugurinanmaz@gmail.com**
+- 📫 How to reach me **yazilimtestmuhendisligi@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ugurinanmaz/](https://www.linkedin.com/in/ugurinanmaz/)
 
