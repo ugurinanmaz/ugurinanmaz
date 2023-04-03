@@ -1,5 +1,5 @@
 
-<img src="https://github.com/ugurinanmaz/ugurinanmaz/blob/main/UILinkedin banner.png"> </img>
+<img src="https://github.com/ugurinanmaz/ugurinanmaz/blob/main/banner.png"> </img>
 <h1 align="center">Hi 👋, I'm Ugur Inanmaz</h1>
 <h2 align="center">I learn every day! <br> Think Out of the Box </h2>
 
