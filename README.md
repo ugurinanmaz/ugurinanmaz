@@ -12,13 +12,30 @@
 
 - 🌱 I’m currently developing Full Automation Systems, performing entire black box testing processes **Performance, Stress, Load Testing -  Manual/Automated tests in Java - Selenium, Cucumber, TestNG, JUnit - API testing, Postman, RestAssured**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ugurinanmaz](https://github.com/ugurinanmaz)
+- <p> 👨‍💻 All of my projects are available at : 
+  <a href="https://github.com/ugurinanmaz">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub logo" width="30" height="30">
+    ugurinanmaz
+  </a>
+</p>
 
 - 💬 Ask me about **Testing, Automation, Working in a Tech Company Life in the USA, SQL, Data manipulation, normalization etc.**
 
-- 📫 How to reach me **yazilimtestmuhendisligi@gmail.com**
+- <p>📫 How to reach me : 
+  <a href="mailto:yazilimtestmuhendisligi@gmail.com">
+    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r2.png" alt="Gmail logo" width="60" height="30">
+    yazilimtestmuhendisligi@gmail.com
+  </a>
+</p>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ugurinanmaz/](https://www.linkedin.com/in/ugurinanmaz/)
+-  [https://www.linkedin.com/in/ugurinanmaz/](https://www.linkedin.com/in/ugurinanmaz/)
+- <p>📄 Know about my experiences: 
+  <a href="https://www.linkedin.com/in/ugurinanmaz">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn logo" width="30" height="30">
+    Ugur Inanmaz
+  </a>
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
