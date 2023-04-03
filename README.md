@@ -23,12 +23,11 @@
 
 - <p>📫 How to reach me : 
   <a href="mailto:yazilimtestmuhendisligi@gmail.com">
-    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r2.png" alt="Gmail logo" width="60" height="30">
+    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r2.png" alt="Gmail logo" width="90" height="30">
     yazilimtestmuhendisligi@gmail.com
   </a>
 </p>
 
--  [https://www.linkedin.com/in/ugurinanmaz/](https://www.linkedin.com/in/ugurinanmaz/)
 - <p>📄 Know about my experiences: 
   <a href="https://www.linkedin.com/in/ugurinanmaz">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn logo" width="30" height="30">
