@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ugurinanmaz&label=Profile%20views&color=0e75b6&style=flat" alt="ugurinanmaz" /> </p>
 
-- 🔭 I’m currently working as a Senior Software Test Engineer at <img src="https://www.visa.com/images/homepage/visa_logo.png">.
+- 🔭 I’m currently working as a Senior Software Test Engineer at <img src="https://github.com/ugurinanmaz/ugurinanmaz/blob/main/Visa-Logo.png">.
 
 - 🌱 I’m currently developing Full Automation Systems, performing entire black box testing processes **Performance, Stress, Load Testing -  Manual/Automated tests in Java - Selenium, Cucumber, TestNG, JUnit - API testing, Postman, RestAssured**
 
